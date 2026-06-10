@@ -67,13 +67,13 @@ and customised me.
 ## Screenshots
 
 ### Portfolio Dashboard
-![Portfolio](../screenshots/portfolio.png)
+![Portfolio](../screenshots/portfolio.PNG)
 
 ### Withdrawal Form
 ![Withdrawal](../screenshots/withdrawal.png)
 
 ### Withdrawal Historypng
-![History](../screenshots/history.png)
+![History](../screenshots/history.PNG)
 
 ### API Response
 ![API](../screenshots/api.png)

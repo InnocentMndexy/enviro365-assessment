@@ -70,7 +70,7 @@ and customised me.
 ![Portfolio](screenshots/portfolio.PNG)
 
 ### Withdrawal Form
-![Withdrawal](screenshots/withdrawal.png)
+![Withdrawal](screenshots/withdrawal.PNG)
 
 ### Withdrawal Historypng
 ![History](screenshots/history.PNG)

@@ -70,15 +70,15 @@ and customised me.
 ![Portfolio](Enviro365-Backend/screenshots/portfolio.PNG)
 
 ### Withdrawal Form
-![Withdrawal](screenshots/withdrawal.PNG)
+![Withdrawal](Enviro365-Backend/screenshots/withdrawal.PNG)
 
 ### Withdrawal Historypng
-![History](screenshots/history.PNG)
+![History](Enviro365-Backend/screenshots/history.PNG)
 
 ### H2 Database Console
-![H2](screenshots/h2console.PNG)
+![H2](Enviro365-Backend/screenshots/h2console.PNG)
 
 ### API Response
-![API](screenshots/api.PNG)
+![API](Enviro365-Backend/screenshots/api.PNG)
 
 

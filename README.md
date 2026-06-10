@@ -72,7 +72,7 @@ and customised by the candidate.
 ### Withdrawal Form
 ![Withdrawal](screenshots/withdrawal.png)
 
-### Withdrawal Historypng
+### Withdrawal History
 ![History](screenshots/history.png)
 
 ### API Response

@@ -76,7 +76,7 @@ and customised me.
 ![History](screenshots/history.PNG)
 
 ### H2 Database Console
-![H2](sreenshots/h2console.PNG)
+![H2](screenshots/h2console.PNG)
 
 ### API Response
 ![API](screenshots/api.PNG)

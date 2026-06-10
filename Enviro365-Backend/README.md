@@ -67,16 +67,16 @@ and customised me.
 ## Screenshots
 
 ### Portfolio Dashboard
-![Portfolio](../screenshots/portfolio.PNG)
+![Portfolio](screenshots/portfolio.PNG)
 
 ### Withdrawal Form
-![Withdrawal](../screenshots/withdrawal.png)
+![Withdrawal](screenshots/withdrawal.png)
 
 ### Withdrawal Historypng
-![History](../screenshots/history.PNG)
+![History](screenshots/history.PNG)
 
 ### API Response
-![API](../screenshots/api.png)
+![API](screenshots/api.PNG)
 
 ### H2 Database Console
-![H2](../screenshots/h2console.png)
+![H2](creenshots/h2console.PNG)

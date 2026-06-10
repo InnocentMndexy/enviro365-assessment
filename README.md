@@ -25,7 +25,7 @@ with Spring Boot and React.
 5. H2 Console: http://localhost:8080/h2-console
    - JDBC URL: jdbc:h2:mem:enviro365db
    - Username: sa
-   - Password: (leave empty)
+   - Password: (empty)
 
 ### Frontend
 1. Make sure Node.js is installed

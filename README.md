@@ -67,13 +67,13 @@ and customised me.
 ## Screenshots
 
 ### Portfolio Dashboard
-![Portfolio](../../../screenshots/portfolio.PNG)
+![Portfolio](Enviro365-Backend/screenshots/portfolio.PNG)
 
 ### Withdrawal Form
-![Withdrawal](../../screenshots/withdrawal.PNG)
+![Withdrawal](screenshots/withdrawal.PNG)
 
 ### Withdrawal Historypng
-![History](../screenshots/history.PNG)
+![History](screenshots/history.PNG)
 
 ### H2 Database Console
 ![H2](screenshots/h2console.PNG)
